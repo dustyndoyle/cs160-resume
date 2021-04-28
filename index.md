@@ -1,37 +1,63 @@
-## Welcome to GitHub Pages
+# Dustyn Doyle
 
-You can use the [editor on GitHub](https://github.com/dustyndoyle/cs160-resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+1647 Ridgedale Drive Lancaster, PA 17601 | 717-606-3908 | ddoyle512@gmail.com
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Summary
 
-### Markdown
+A web developer with over eight years of experience on a variety of web and e-commerce platforms mainly focusing on Front-End development. Not afraid of new technologies or tight timelines. Experience in all phases of the development lifecycle, and diverse knowledge in a variety of languages and platforms.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Experience
 
-```markdown
-Syntax highlighted code block
+### Senior Developer
+_Visual Impact Group - York, PA_
+November 2020 - Present
 
-# Header 1
-## Header 2
-### Header 3
+- Develop fully custom websites, meeting client expectations, on a variety of platforms.
+- Maintain and integrate new features into existing client applications and software.
 
-- Bulleted
-- List
+### Developer
+_Tower Marketing - Lancaster, PA_
+Feburary 2019 - November 2020
 
-1. Numbered
-2. List
+- Developed ADA compliant, SEO-friendly websites for a variety of projects and clients.
+- Gained unique experience in developing websites that integrate with clients’ existing ERP software.
+- Mentored a junior developer to ensure adherence to best practices across the team.
 
-**Bold** and _Italic_ and `Code` text
+### Developer
+_Web Talent Marketing - Lancaster, PA_
+July 2017 - Feburary 2019
 
-[Link](url) and ![Image](src)
-```
+- Led development on all projects as the sole in-house developer.
+- Developed fully-responsive websites with WordPress, WooCommerce, and Gulp.
+- Collaborated with designers to create user-friendly, pixel-perfect designs within scope.
+- Self-managed and provided project and maintenance estimates to account managers.
+- upervised hosting and DNS for all clients through multiple providers.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Front-end Developer
+_Synapse Marketing Solutions - Lancaster, PA_
+August 2016 - June 2017
 
-### Jekyll Themes
+- Led front-end development using WordPress, WooCommerce, and Susy responsive framework.
+- Planned projects in Trello and communicated status and scope changes with project managers.
+- Collaborated with ten front-and back-end developers, following and establishing best practices.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dustyndoyle/cs160-resume/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Developer
+_LaunchDM - Wyomissing, PA_
+August 2012 - August 2016
 
-### Support or Contact
+- Delegated tasks to a team of developers while handling a full development workload.
+- Created development plans and scopes within timeline and budget.
+- Developed a diverse portfolio of websites while maintaining design accuracy and high code quality.
+- Collaborated with developers, both in-house and freelance / contract.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Education
+_Harrisburg Area Community College - Harrisburg, PA_
+Associate’s Degree in Arts in Web Development and Design | May 2012
+
+## Skills
+Languages - HTML5, CSS3, SCSS, JavaScript, PHP, SQL
+Platforms - WordPress, WooCommerce, Genesis, Shopify, and Git
+Responsive Frameworks - Bootstrap, Neat, and Susy
+JavaScript - jQuery, Underscore.js, React, and Next.js
+Build Tools - Grunt, Gulp, Webpack, and Composer
+Programs - Adobe Creative Suite (Photoshop, Illustrator, XD, InDesign), Sketch
